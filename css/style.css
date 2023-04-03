@@ -46,9 +46,15 @@
 /*fine css terzo paragrafo*/
 
 /*inizio css tabella*/
+table{
+    border-collapse: collapse;
+}
 #thead-blu{
     background-color: rgb(11, 115, 241);
     border-color: rgb(11, 115, 241);
+}
+.tr-color-lightblue{
+    background-color: lightblue;
 }
 /*fine css tabella*/
 
