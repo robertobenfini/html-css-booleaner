@@ -3,3 +3,24 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+/*inizio css logo*/
+#logo{
+    background-color: rgb(11, 115, 241);
+    background-image: url(../img/pattern.png);
+    size: 200px;
+}
+/*fine css logo*/
+
+/*inizio css titolo*/
+.color-gray{
+    color: gray;
+}
+
+.color-lightblue{
+    text-decoration: none;
+    color: rgb(11, 115, 241);
+}
+/*fine css titolo*/
+
+
