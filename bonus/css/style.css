@@ -1,0 +1,91 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/*inizio css logo*/
+#logo{
+    background-color: rgb(11, 115, 241);
+    background-image: url(../img/pattern.png);
+    background-size: contain;
+}
+/*fine css logo*/
+
+/*inizio css titolo*/
+.color-gray{
+    color: gray;
+    margin-bottom: 20px;
+}
+
+.color-lightblue{
+    text-decoration: none;
+    color: rgb(11, 115, 241);
+}
+/*fine css titolo*/
+
+/*inizio css primo paragrafo*/
+#dimensione-testo{
+    font-size: small;
+}
+/*fine css primo paragrafo*/
+
+/*inizio css secondo paragrafo*/
+.margin{
+    padding-top: 20px;
+}
+.evidenziato{
+    background-color: yellow;
+}
+/*fine css secondo paragrafo*/
+
+/*inizio css terzo paragrafo*/
+#terzo-paragrafo{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-left: 30px;
+}
+/*fine css terzo paragrafo*/
+
+/*inizio css tabella*/
+table{
+    border-collapse: collapse;
+}
+#thead-blu{
+    background-color: rgb(11, 115, 241);
+    border-color: rgb(11, 115, 241);
+    color: white;
+}
+.tr-color-lightblue{
+    background-color: lightblue;
+}
+/*fine css tabella*/
+
+/*inizio css footer*/
+#testo-footer{
+    color: gray;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+#foto-footer-1{
+    background-image: url(../img/monitor.jpg);
+    color: white;
+    height: 200px;
+    width: 300px;
+    text-align: left;
+    padding-top: 10px;
+    font-size: 30px;
+}
+#foto-footer-2{
+    background-image: url(../img/graph.jpg);
+    color: white;
+    height: 200px;
+    width: 300px;
+    text-align: left;
+    padding-top: 10px;
+    font-size: 30px;
+    margin-top: 5px;
+    margin-bottom: 20px;
+}
+/*fine css footer*/
+
