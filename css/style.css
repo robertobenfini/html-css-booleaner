@@ -45,4 +45,11 @@
 }
 /*fine css terzo paragrafo*/
 
+/*inizio css tabella*/
+#thead-blu{
+    background-color: rgb(11, 115, 241);
+    border-color: rgb(11, 115, 241);
+}
+/*fine css tabella*/
+
 
